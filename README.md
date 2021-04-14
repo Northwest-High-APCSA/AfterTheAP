@@ -1,4 +1,4 @@
-After The AP Exam
+After The AP Exam (Borrowed from Art Simon - Computer Science Instructor @ Lowell High School, San Francisco)
 =================
 
 After the AP Exam you are expected to use your class time productively. If you have any unfinished assignments you should finish those first. If you've completed all your assignments you are welcome to choose how you use your time as long as you are working on something related to computer science. You are welcome to work by yourself or with a partner. Here are some suggestions:
